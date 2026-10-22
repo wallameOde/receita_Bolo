@@ -2,6 +2,7 @@
 body{
     background-image: url(assents/bg.jpg);
     background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
 }
 #sobre{
     width: 800px;
@@ -15,4 +16,8 @@ body{
 img {
   max-width: 100%;
   border-radius: 16px;
+}
+h1{
+    font-size: 40px;
+    line-height: 140%;
 }
