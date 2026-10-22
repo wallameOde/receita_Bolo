@@ -1,3 +1,18 @@
-image{
-    border-color: black;
+
+body{
+    background-image: url(assents/bg.jpg);
+    background-size: cover;
+}
+#sobre{
+    width: 800px;
+    max-width: 100%;
+    box-sizing: border-box;
+    margin:  0 auto;
+    padding: 26px;
+    background-color: aliceblue;
+    border-radius: 24px;
+}
+img {
+  max-width: 100%;
+  border-radius: 16px;
 }
