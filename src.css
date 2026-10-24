@@ -21,3 +21,7 @@ h1{
     font-size: 40px;
     line-height: 140%;
 }
+footer {
+    text-align: center;
+    margin-top: 13px;
+}
